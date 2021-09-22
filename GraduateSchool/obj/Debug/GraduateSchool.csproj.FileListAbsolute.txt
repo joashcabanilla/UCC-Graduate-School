@@ -1,0 +1,9 @@
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\bin\Debug\GraduateSchool.exe.config
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\bin\Debug\GraduateSchool.exe
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\bin\Debug\GraduateSchool.pdb
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.csprojResolveAssemblyReference.cache
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.main.resources
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.Properties.Resources.resources
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.csproj.GenerateResource.Cache
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.exe
+C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.pdb
