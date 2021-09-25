@@ -7,3 +7,14 @@ C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool
 C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.csproj.GenerateResource.Cache
 C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.exe
 C:\Users\SIR DAVE\Desktop\GraduateSchool\GraduateSchool\obj\Debug\GraduateSchool.pdb
+E:\UCC-GradSchool\GraduateSchool\bin\Debug\GraduateSchool.exe.config
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.exe
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.pdb
+E:\UCC-GradSchool\GraduateSchool\bin\Debug\GraduateSchool.exe
+E:\UCC-GradSchool\GraduateSchool\bin\Debug\GraduateSchool.pdb
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.main.resources
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.Properties.Resources.resources
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.csproj.GenerateResource.Cache
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.csprojResolveAssemblyReference.cache
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.dbPath.resources
+E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.AcademicYear.resources
