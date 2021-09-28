@@ -107,6 +107,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -122,6 +125,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo_R5C_icon.ico" />
+    <None Include="Resources\University_of_Caloocan_City11.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logo_R5C_icon.ico" />

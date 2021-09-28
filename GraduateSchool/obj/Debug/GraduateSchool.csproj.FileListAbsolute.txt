@@ -18,3 +18,15 @@ E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.csproj.GenerateResourc
 E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.csprojResolveAssemblyReference.cache
 E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.dbPath.resources
 E:\UCC-GradSchool\GraduateSchool\obj\Debug\GraduateSchool.AcademicYear.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\bin\Debug\GraduateSchool.exe.config
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.exe
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.pdb
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\bin\Debug\GraduateSchool.exe
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\bin\Debug\GraduateSchool.pdb
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.csprojResolveAssemblyReference.cache
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.AcademicYear.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.dbPath.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.main.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.Properties.Resources.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.Student.resources
+C:\Users\SIGNUS\Desktop\ucc-gradschool\GraduateSchool\obj\Debug\GraduateSchool.csproj.GenerateResource.Cache
